@@ -1,29 +1,21 @@
-const SnoweURL = "http://snowe.sookmyung.ac.kr/";
-const SnowayURL = "http://snoway.sookmyung.ac.kr/";
+const JBNUHomeURL = "http://https://www.jbnu.ac.kr";
+const PotalURL = "http://portal.jbnu.ac.kr";
 const GitRepoURL = "https://github.com/seohyun0120/quick-sook";
-const SnoroseURL = "http://www.snorose.com/";
-const SnowboardURL = "http://snowboard.sookmyung.ac.kr";
-const SookmyungCalURL = "http://www.sookmyung.ac.kr/sookmyungkr/1146/subview.do";
-const SookmyungHomeURL = "http://www.sookmyung.ac.kr/";
-const SookmyungPortalURL = "https://portal.sookmyung.ac.kr";
-const SookmyungPhoneBookURL = "http://www.sookmyung.ac.kr/sookmyungkr/978/subview.do";
-const SookmyungQuickEnrollmentURL = "https://smap.sookmyung.ac.kr:8443/sap/bc/webdynpro/sap/zcmw2403";
-const SookmyungWiseURL = "https://wise.sookmyung.ac.kr/";
-const SookmyungLibraryURL = "https://lib.sookmyung.ac.kr/";
+const OasisURL = "https://all.jbnu.ac.kr/jbnu/oasis";
+const CalURL = "https://www.jbnu.ac.kr/kor/?menuID=19";
+const MapURL = "https://map.kakao.com/?urlX=529230.0&urlY=652585.0&itemId=11335152&q=%EC%A0%84%EB%B6%81%EB%8C%80%ED%95%99%EA%B5%90%20%EC%A0%84%EC%A3%BC%EC%BA%A0%ED%8D%BC%EC%8A%A4&srcid=11335152&map_type=TYPE_MAP&from=roughmap";
+const LibraryURL = "https://dl.jbnu.ac.kr/";
+const lunchroomURL = "http://sobi.chonbuk.ac.kr/chonbuk/m040101";
 
 function openURLInNewTab(url) {
     whale.tabs.create({ url });
 }
 
-document.getElementById('clickSnowe').addEventListener('click', () => { openURLInNewTab(SnoweURL) }, false);
-document.getElementById('clickSnowboard').addEventListener('click', () => { openURLInNewTab(SnowboardURL) }, false);
-document.getElementById('clickSookmyung').addEventListener('click', () => { openURLInNewTab(SookmyungHomeURL) }, false);
-document.getElementById('clickSMbook').addEventListener('click', () => { openURLInNewTab(SookmyungPhoneBookURL) }, false);
-document.getElementById('clickSMCalendar').addEventListener('click', () => { openURLInNewTab(SookmyungCalURL) }, false);
-document.getElementById('clickSnoway').addEventListener('click', () => { openURLInNewTab(SnowayURL) }, false);
-document.getElementById('clickPortal').addEventListener('click', () => { openURLInNewTab(SookmyungPortalURL) }, false);
-document.getElementById('clickSnorose').addEventListener('click', () => { openURLInNewTab(SnoroseURL) }, false);
-document.getElementById('clickSMEnrollment').addEventListener('click', () => { openURLInNewTab(SookmyungQuickEnrollmentURL) }, false);
-document.getElementById('clickSMWise').addEventListener('click', () => { openURLInNewTab(SookmyungWiseURL) }, false);
-document.getElementById('clickSMLibrary').addEventListener('click', () => { openURLInNewTab(SookmyungLibraryURL) }, false);
-document.getElementById('clickEasterEgg').addEventListener('click', () => { openURLInNewTab(GitRepoURL) }, false);
+document.getElementById('clickJBNU').addEventListener('click', () => { openURLInNewTab(JBNUHomeURL) }, false);
+document.getElementById('clickPotal').addEventListener('click', () => { openURLInNewTab(PotalURL) }, false);
+document.getElementById('clickGitRepo').addEventListener('click', () => { openURLInNewTab(GitRepoURL) }, false);
+document.getElementById('clickOasis').addEventListener('click', () => { openURLInNewTab(OasisURL) }, false);
+document.getElementById('clickCalendar').addEventListener('click', () => { openURLInNewTab(CalURL) }, false);
+document.getElementById('clickMap').addEventListener('click', () => { openURLInNewTab(MapURL) }, false);
+document.getElementById('clickLibrary').addEventListener('click', () => { openURLInNewTab(LibraryURL) }, false);
+document.getElementById('clickLunchroom').addEventListener('click', () => { openURLInNewTab(lunchroomURL) }, false);
