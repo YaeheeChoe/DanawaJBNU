@@ -9,8 +9,8 @@
 
 **전북대학교** 학생들에게 필요한 모든 웹사이트를 한 눈에 모아보세요.
 
-- [웨일 확장앱 다운 받기](https://store.whale.naver.com/detail/lniagbhflokdpfoilcmcpdmaphllolai)
-- [크롬 확장앱 다운받기](https://chrome.google.com/webstore/detail/퀵숙-quick-sookmyung/ojiacghdlkbcfphkggebiiblbhheiopc)****
+- 
+- 
 
 
 
