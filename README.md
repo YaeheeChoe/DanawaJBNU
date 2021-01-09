@@ -17,7 +17,7 @@
 
 ### 저작권
 
-origin : https://github.com/seohyun0120/Quick-Sook
+origin : https://github.com/seohyun0120/Quick-Sook  
 license : https://github.com/YaeheeChoe/DanawaJBNU/blob/master/LICENSE
 
 ※ 전북대학교 로고는 저작권과 상표등록으로 보호된 것으로서 외부인이 전북대학교의 서면 승인 없이 전체또는 부분을 복제, 변조하거나 전북대학교 홍보 이외의 목적으로 사용할 시 저작권법과 상표등록법에 의거하여
