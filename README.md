@@ -15,7 +15,7 @@
 
 누구든 이 프로젝트에 기여할 수 있습니다. [CONTRIBUTING.md](https://github.com/YaeheeChoe/DanawaJBNU/blob/master/CONTRIBUTING.md)를 확인하세요.
 
-### 저작권
+### 저작권 
 
 origin : https://github.com/seohyun0120/Quick-Sook  
 license : https://github.com/YaeheeChoe/DanawaJBNU/blob/master/LICENSE
