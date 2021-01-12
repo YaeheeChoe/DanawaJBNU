@@ -9,7 +9,7 @@
 
 **전북대학교** 학생들에게 필요한 웹사이트를 한 눈에 모아보세요.
 
-
+- [웨일스토어](https://store.whale.naver.com/detail/obgpnklelffinilkfkpfhbkhnnmbgoid)
 
 ### 기여하기
 
