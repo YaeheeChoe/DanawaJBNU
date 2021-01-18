@@ -79,7 +79,11 @@ div.icon-container:hover {
     justify-content: flex-start;
     flex-wrap      : wrap;
 }
-
+#res {
+    position: absolute;
+    right: 3px;
+    bottom:3px;
+}
 div.the-end {
     width   : 75px;
     position: relative;
